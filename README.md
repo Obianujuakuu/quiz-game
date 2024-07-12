@@ -1,7 +1,8 @@
-Quiz App
+
 Welcome to the Quiz Game! This is a simple web-based quiz application where users can test their knowledge about various topics. The app features a welcoming screen, a quiz interface with multiple-choice questions, and a results screen displaying the user's score.
 
-Features
+Features:
+
 Welcome Screen.
 Quiz Interface: Users are presented with multiple-choice questions, one at a time.
 Score Calculation: Users' scores are calculated based on correct answers.
